@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "YUJIE & COLOUR008"
-  text: "的项目文档站📝"
+  name: "YC的项目文档站"
+  # text: "的项目文档站📝"
   tagline: 以文记录，以行成长
   image:
     src: /background.png
