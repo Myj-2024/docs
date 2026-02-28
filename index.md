@@ -19,8 +19,11 @@ hero:
       link: /aboutme.md
 
 features:
+  - title: 中小微企业服务平台项目文档
+    details: 📔
+    link: /sme-docs/index.md
   - title: 二手物品交易管理系统项目文档
-    details: 🎉
+    details: 📑
     link: /sts-doc/index.md
   - title: yujie的GitHub
     details: 🔗

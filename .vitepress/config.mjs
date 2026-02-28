@@ -37,8 +37,8 @@ export default defineConfig({
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
 			{ text: '主页', link: '/' },
+			{ text: '中小微企业服务平台', link: '/sme-docs/' },
 			{ text: '二手物品交易管理系统', link: '/sts-doc/' },
-			{ text: '其他', link: '/windows/' },
 			{
 				text: '友情链接',
 				items: [
@@ -48,8 +48,8 @@ export default defineConfig({
 			},
 		],
 		sidebar: {
+			'/sme-docs': set_sidebar('/sme-docs'),
 			'/sts-doc': set_sidebar('/sts-doc'),
-			'/windows': set_sidebar('/windows'),
 		},
 
 		socialLinks: [{ icon: 'github', link: 'https://github.com/Myj-2024' }],
